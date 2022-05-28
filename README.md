@@ -2,7 +2,8 @@
 Automatic Attendance system using Face Recognition
 
 STEP 1 :
-      git clone https://github.com/SriHarsha-4/Attendance_FaceRecognition.git
+      git clone https://github.com/SriHarsha-4/Backend.git
+      git clone https://github.com/SriHarsha-4/Frontend.git
 
 STEP 2 :
      cd Backend
